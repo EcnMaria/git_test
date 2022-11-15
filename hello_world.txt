@@ -1,0 +1,4 @@
+add text
+save it
+stage it
+finally commit
